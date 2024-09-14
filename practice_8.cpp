@@ -1,4 +1,4 @@
-// Linear Search using Vector
+// Practice Qs - 1 : Linear Search using Vector
 
 // #include<iostream>
 // #include<vector>
@@ -20,7 +20,7 @@
 //     return 0;
 // }
 
-// Reverse Array print in vector using Function
+// Practice Qs - 2 : Reverse Array print in vector using Function
 
 #include<iostream>
 #include<vector>
